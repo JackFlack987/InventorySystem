@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad6d446a7c6d7624b801c40206a2c391, type: 3}
+  m_Name: Monk Fish
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1332444762352104351, guid: 2dc13500d1fed6846ae0ea2c7e3c5a4b, type: 3}
+  type: 0
+  description: A strange fish normaly found in the sea.
+  restoreHealthValue: 16
